@@ -5,7 +5,7 @@ In this repository I have used a DenseNet architecture to classify images in the
 
 The assignment instructions are as follows:
 
-1.  Please refer to the DenseNet pdf file link to access the state-of-art DenseNet code for reference - DenseNet - cifar10 notebook link
+1.  Please refer to the [DenseNet pdf file](https://github.com/yashnaik99/CNN-on-CIFAR-10/blob/416ce44af4d000b8b7f67b99f682cc9d41e84d89/dense.pdf) to access the state-of-art DenseNet code for reference - DenseNet - cifar10 notebook link
 2.  You need to create a copy of this and "retrain" this model to achieve 90+ test accuracy. 
 3.  You cannot use DropOut layers.
 4.  You MUST use Image Augmentation Techniques.
